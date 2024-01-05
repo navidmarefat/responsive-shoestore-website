@@ -1,2 +1,3 @@
 # shoestore-website
-This project is home page of n online shoe store .
+This project is home page of an online shoe store .
+ The website is responsive to screen size.
